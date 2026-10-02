@@ -1,0 +1,1 @@
+https://github.com/Eliseo128/practicas-pandas-ML-2023/blob/3e44a09f4bd05e15cf0e14d9e23ac927591d6aa0/vs%20code%20jupiter%20pandas%20chatgpt.md
